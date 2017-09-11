@@ -13,6 +13,7 @@ What you don't want to see in Code
 9. Legacy coding habits
 10. Programming by co-incidents
 11. Programming by superstition
+12. Cargo Cult Programming
 
 #### Quotes
 
