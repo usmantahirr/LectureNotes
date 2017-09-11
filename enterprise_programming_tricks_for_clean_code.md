@@ -18,6 +18,8 @@ What you don't want to see in Code
 
 > A Work of art is the unique result of a unique temperament
 
+> A common fallacy is to assume authors of incomprehensible code will somehow be able to express themselves lucidly and clearly in comments - Kevlin Henney
+
 #### Things to look for
 
 Look for **FizBuz** problem
