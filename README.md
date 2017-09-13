@@ -1,7 +1,7 @@
 # LectureNotes
+Lecture notes for different Talks, Courses and Lecture Series I attend day to day.
 
-Catelog to see what I learnt
-Lecture notes for different lectures I attend day to day.
+## Talks
 
 - [x] [Enterprise Programming Tricks For Clean Code](enterprise_programming_tricks_for_clean_code.md) — [Lecture](https://www.youtube.com/watch?v=dC9vdQkU-xI)
 - [ ] [How Bad Code Can Be Good](how_bad_code_can_be_good.md) — [Lecture](https://www.youtube.com/watch?v=3m1JoFf-poQ)
@@ -15,8 +15,11 @@ Lecture notes for different lectures I attend day to day.
 - [ ] [Articulating Design Decisions](#) — [Lecture](https://www.youtube.com/watch?v=mO14TF0cFoE&spfreload=1)
 - [ ] [Atomic Design: Create Design Systems, Not Pages](#) — [Lecture](https://www.youtube.com/watch?v=wcAl0VXYBGE)
 
+## Video Series
+- [ ] [Building a Website - Developer Diary](#) — [PlayList](https://www.youtube.com/playlist?list=PLNYkxOF6rcIA3IPVZzQw1RrFVud3_qcAY)
+
 ## Courses
 - [ ] [Machine Learning Recipes - Google Developers](#) — [YouTube](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 - [ ] [Artificial Intelligence - Prof. Patrick Henry Winston](#) — [MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) | [YouTube](https://www.youtube.com/watch?v=TjZBTDzGeGg)
-- [ ] [The complete Angular master class]() — [Udemy](https://www.udemy.com/the-complete-angular-master-class)
+- [ ] [The complete Angular master class](#) — [Udemy](https://www.udemy.com/the-complete-angular-master-class)
 
