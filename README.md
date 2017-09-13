@@ -17,9 +17,12 @@ Lecture notes for different Talks, Courses and Lecture Series I attend day to da
 
 ## Video Series
 - [ ] [Building a Website - Developer Diary](#) — [PlayList](https://www.youtube.com/playlist?list=PLNYkxOF6rcIA3IPVZzQw1RrFVud3_qcAY)
+- [ ] [Machine Learning Recipes - Google Developers](#) — [YouTube](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+- [ ] [Progressive Web Apps course](#) — [YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
+- [ ] [Polymer Summit 2017](#) — [YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
+- [ ] [Polycasts with Rob Dodson](#) — [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
+- [ ] [Totally Tooling Tips: Progressive Web Apps](#) — [YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBiVPNwYbM6Y7gtp9NLbwG2)
 
 ## Courses
-- [ ] [Machine Learning Recipes - Google Developers](#) — [YouTube](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 - [ ] [Artificial Intelligence - Prof. Patrick Henry Winston](#) — [MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) | [YouTube](https://www.youtube.com/watch?v=TjZBTDzGeGg)
 - [ ] [The complete Angular master class](#) — [Udemy](https://www.udemy.com/the-complete-angular-master-class)
-
