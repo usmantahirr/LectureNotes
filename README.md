@@ -6,6 +6,7 @@ Lecture notes for different Talks, Courses and Lecture Series I attend day to da
 - [x] [Enterprise Programming Tricks For Clean Code](enterprise_programming_tricks_for_clean_code.md) — [Lecture](https://www.youtube.com/watch?v=dC9vdQkU-xI)
 - [ ] [How Bad Code Can Be Good](how_bad_code_can_be_good.md) — [Lecture](https://www.youtube.com/watch?v=3m1JoFf-poQ)
 - [ ] [Seven Ineffective Coding Habits](seven_ineffective_coding_habits.md) — [Lecture](https://www.youtube.com/watch?v=ZsHMHukIlJY)
+- [x] [Code Refactoring: Learn Code Smells And Level Up Your Game!](learn_code_smells_and_level_up_your_game.md) — [Lecture](https://www.youtube.com/watch?v=D4auWwMsEnY)
 - [ ] [Immutable User Interfaces](#) — [Lecture](https://www.youtube.com/watch?v=rtcn9I9sB5M)
 - [ ] [Design Principles: Complexity](#) — [Lecture](https://www.youtube.com/watch?v=ZxSFsaK0UK8)
 - [ ] [Dynamic Programming I: Fibonacci, Shortest Paths](#) — [Lecture](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
