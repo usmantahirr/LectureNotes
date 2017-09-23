@@ -15,6 +15,8 @@ Lecture notes for different Talks, Courses and Lecture Series I attend day to da
 - [ ] [Reasonable JavaScript](#) — [Lecture](https://www.youtube.com/watch?v=0cJqiO_Q0KA)
 - [ ] [Articulating Design Decisions](#) — [Lecture](https://www.youtube.com/watch?v=mO14TF0cFoE&spfreload=1)
 - [ ] [Atomic Design: Create Design Systems, Not Pages](#) — [Lecture](https://www.youtube.com/watch?v=wcAl0VXYBGE)
+- [ ] [ES6 MODULES: Polymer Summit](#) — [Lecture](https://www.youtube.com/watch?v=m8aqeZhOMU4)
+- [ ] [10 Simple Rules For Writing Great Testcases](#) Steve Poole and Stuart Marks — [lecture](https://www.youtube.com/watch?v=U7Ty3Cmr0EU)
 
 ## Video Series
 - [ ] [Building a Website - Developer Diary](#) — [PlayList](https://www.youtube.com/playlist?list=PLNYkxOF6rcIA3IPVZzQw1RrFVud3_qcAY)
